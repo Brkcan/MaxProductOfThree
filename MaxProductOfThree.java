@@ -1,7 +1,5 @@
-package trendyolTest;
 
 public class MaxProductOfThree {
-
 	public int solution() {
 		 //int A[] = { -10, -2, -4 };
 		 int A[] = { -3, 1, 2, -2, 5, 6 };
